@@ -1,0 +1,16 @@
+C:\Desa\NET\PoloUNLaM\MLN\MLM.DataAccess\bin\Debug\MLM.DataAccess.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.DataAccess\bin\Debug\MLM.DataAccess.pdb
+C:\Desa\NET\PoloUNLaM\MLN\MLM.DataAccess\bin\Debug\MLM.Common.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.DataAccess\bin\Debug\MLM.Common.pdb
+C:\Desa\NET\PoloUNLaM\MLN\MLM.DataAccess\obj\Debug\MLM.DataAccess.csprojResolveAssemblyReference.cache
+C:\Desa\NET\PoloUNLaM\MLN\MLM.DataAccess\obj\Debug\MLM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Desa\NET\PoloUNLaM\MLN\MLM.DataAccess\obj\Debug\MLM.DataAccess.dll
+C:\Desa\NET\PoloUNLaM\MLN\MLM.DataAccess\obj\Debug\MLM.DataAccess.pdb
+C:\Users\GyL\Desktop\Proyectos\MLN(1)\MLM.DataAccess\bin\Debug\MLM.DataAccess.dll
+C:\Users\GyL\Desktop\Proyectos\MLN(1)\MLM.DataAccess\bin\Debug\MLM.DataAccess.pdb
+C:\Users\GyL\Desktop\Proyectos\MLN(1)\MLM.DataAccess\bin\Debug\MLM.Common.dll
+C:\Users\GyL\Desktop\Proyectos\MLN(1)\MLM.DataAccess\bin\Debug\MLM.Common.pdb
+C:\Users\GyL\Desktop\Proyectos\MLN(1)\MLM.DataAccess\obj\Debug\MLM.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\GyL\Desktop\Proyectos\MLN(1)\MLM.DataAccess\obj\Debug\MLM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GyL\Desktop\Proyectos\MLN(1)\MLM.DataAccess\obj\Debug\MLM.DataAccess.dll
+C:\Users\GyL\Desktop\Proyectos\MLN(1)\MLM.DataAccess\obj\Debug\MLM.DataAccess.pdb
